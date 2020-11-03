@@ -1,7 +1,5 @@
 node_modules
 
-/_support
+dist
 
-/dist
-
-/.DS_Store
+.DS_Store
